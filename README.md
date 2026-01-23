@@ -6,7 +6,12 @@ The main goal of this task is to understand how multi-page websites work, how na
 
 ---
 
-## 🌐 Pages Included
+# Live Demo
+Live Website:
+https://ranii1012.github.io/semantic-profile/
+
+
+##  Pages Included
 
 - Home
 - About
@@ -18,7 +23,7 @@ Each page is created as a separate HTML file and connected using a navigation me
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - HTML5
 - CSS3
@@ -28,7 +33,7 @@ Each page is created as a separate HTML file and connected using a navigation me
 
 ---
 
-## ✨ Features
+##  Features
 
 - Simple and clean UI
 - Multi-page navigation system
@@ -39,12 +44,12 @@ Each page is created as a separate HTML file and connected using a navigation me
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - Relative paths in HTML
 - Linking multiple pages
@@ -54,7 +59,7 @@ Each page is created as a separate HTML file and connected using a navigation me
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Rani Sumnanjali**  
 Frontend Developer
